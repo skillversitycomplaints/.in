@@ -1,0 +1,29 @@
+[
+  {
+    "id": "usr_admin_001",
+    "username": "admin",
+    "salt": "7a03779fbb122f767cb8cbfa11c1185f",
+    "hash": "15e59f4a5e3b9f3972000b54f0554024150cfc8cefefc0fe9e07be1835fe22602855bebae4a2de9d7197a7b4c7f048e6afe9ba766daa6245d0f466c1a6e5a6b1",
+    "fullName": "Skillversity IT Administrator",
+    "email": "skillversitycomplaints@gmail.com",
+    "phone": "+91 9876543210",
+    "role": "Super Admin",
+    "department": "IT OPERATIONS",
+    "createdAt": "2026-09-22T04:11:58.006Z",
+    "createdBy": "System Default"
+  },
+  {
+    "id": "usr_232503",
+    "username": "tech_user_2495",
+    "salt": "3c773386045f9809e4867adffd10c121",
+    "hash": "54dac988a6934efe08fabaf0daa0f91a1166f52fb4e63893ed8b8dd805dd59a45997b11d3b0b454e873590bd83e7a9b626dd5d31bdb4b5f32391b5e4a4267680",
+    "fullName": "Alex Tech Lead",
+    "email": "alex.tech@skillversity.org",
+    "phone": "+91 9123456789",
+    "role": "Admin",
+    "department": "IT OPERATIONS",
+    "createdAt": "2026-09-22T05:00:32.503Z",
+    "createdBy": "Admin",
+    "updatedAt": "2026-09-22T05:00:32.507Z"
+  }
+]

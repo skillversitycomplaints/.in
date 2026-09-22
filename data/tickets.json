@@ -1,0 +1,93 @@
+[
+  {
+    "ticketId": "TK-2026-1005",
+    "date": "9/22/2026, 9:36:09 AM",
+    "createdAt": "2026-09-22T04:06:55.341Z",
+    "userName": "TEST",
+    "userEmail": "TEST@GMAIL.COM",
+    "userPhone": "6789098765",
+    "contactNumber": "6789098765",
+    "department": "IT OPERATIONS",
+    "category": "IT Hardware & Devices",
+    "subCategory": "Laptop / PC Startup Issue",
+    "subject": "TEST",
+    "description": "dsfdfert",
+    "impact": "Medium",
+    "urgency": "Medium",
+    "priority": "Medium",
+    "status": "Resolved",
+    "assignedTo": "Skillversity IT Administrator",
+    "vendorTicketRef": "",
+    "troubleshootingNotes": "",
+    "attachments": [],
+    "userConfirmed": false,
+    "auditTrail": [
+      {
+        "timestamp": "2026-09-22T04:06:55.342Z",
+        "updatedBy": "TEST",
+        "changes": [
+          "Ticket Created"
+        ]
+      },
+      {
+        "timestamp": "2026-09-22T08:26:00.344Z",
+        "updatedBy": "Skillversity IT Admin",
+        "changes": [
+          "Assigned to 'Skillversity IT Administrator'"
+        ]
+      },
+      {
+        "timestamp": "2026-09-22T08:26:10.223Z",
+        "updatedBy": "Skillversity IT Admin",
+        "changes": [
+          "Status changed from 'Open' to 'Resolved'"
+        ]
+      }
+    ],
+    "lastUpdated": "22/9/2026, 1:56:10 pm"
+  },
+  {
+    "ticketId": "TK-2026-1003",
+    "date": "21/9/2026, 4:55:11 pm",
+    "createdAt": "2026-09-21T11:25:12.010Z",
+    "userName": "TEST",
+    "userEmail": "TEST@GMAIL.COM",
+    "department": "IT Support",
+    "category": "IT Hardware & Devices",
+    "subject": "TEST",
+    "description": "TEST",
+    "impact": "Medium",
+    "urgency": "Medium",
+    "priority": "Medium",
+    "status": "Open",
+    "assignedTo": "Unassigned",
+    "vendorTicketRef": "",
+    "troubleshootingNotes": "",
+    "attachments": [
+      {
+        "filename": "files-1789989911879-247601449.png",
+        "originalName": "Screenshot 2026-02-23 101509.png",
+        "mimeType": "image/png",
+        "size": 113243,
+        "url": "http://localhost:3000/uploads/TK-2026-1003/files-1789989911879-247601449.png",
+        "uploadedAt": "2026-09-21T11:25:12.009Z"
+      }
+    ],
+    "userConfirmed": false,
+    "auditTrail": [
+      {
+        "timestamp": "2026-09-21T11:25:12.010Z",
+        "updatedBy": "TEST",
+        "changes": [
+          "Ticket Created"
+        ]
+      },
+      {
+        "timestamp": "2026-09-21T11:28:29.091Z",
+        "updatedBy": "Skillversity IT Admin",
+        "changes": []
+      }
+    ],
+    "lastUpdated": "21/9/2026, 4:58:29 pm"
+  }
+]
